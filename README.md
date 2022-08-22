@@ -1,7 +1,7 @@
 # express-deployed
 
 1. created folder
-2.firebase init hosting
+2. firebase init hosting
 3. firebase init functions (make sure blaze plan)
 4. install express and cors in functions folder
 5. redirect traffic in firebase.json
